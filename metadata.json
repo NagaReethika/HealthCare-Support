@@ -1,0 +1,6 @@
+{
+  "name": "Healthcare Support Portal",
+  "description": "A support and registration portal for healthcare NGO services featuring a dynamic help assistant and registration forms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
